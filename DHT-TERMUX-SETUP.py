@@ -23,6 +23,7 @@ def welcome_screen():
     print(G + "THIS TOOL IS PAID, BUT YOU CAN USE IT FOR FREE IF YOU:" + RESET)
     print(Y + "[1] SUBSCRIBE TO OUR YOUTUBE CHANNEL" + RESET)
     print(Y + "[2] JOIN OUR WHATSAPP COMMUNITY" + RESET)
+    print(Y + "[2] JOIN OUR WHATSAPP CHANNEL" + RESET)
     print(Y + "=" * 60 + RESET)
 
     print(G + "[+] Opening YouTube..." + RESET)
@@ -34,7 +35,11 @@ def welcome_screen():
     os.system("termux-open-url https://chat.whatsapp.com/G2hCkCzylra2OENEfhH8Os")
 
     input(Y + "[✓] After joining the community, press Enter to continue..." + RESET)
+    print(G + "[+] Opening WhatsApp..." + RESET)
+    os.system("termux-open-url https://whatsapp.com/channel/0029Vb5tH5WJf05jzN9yGv3M")
 
+    input(Y + "[✓] After following, press Enter to continue..." + RESET)
+    
     print(G + "[✓] Setup Complete! Launching tool..." + RESET)
     time.sleep(1)
 
