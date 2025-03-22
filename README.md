@@ -19,11 +19,33 @@ Termux Auto Setup is a powerful script designed to automate the installation of 
 
 # Installation 
 
+apt update && apt upgrade
 
- 
+pkg install python python3 git wget curl fish figlet neofetch -y
+
+git clone https://github.com/DHThackers-10/DHT-TERMUX-SETUP.git
+
+pip install requests mechanize tqdm bs4 future
+
+termux-setup-storage
+
+cd DHT-TERMUX-SETUP 
+
+# Usage 
+
+python3 DHT-TERMUX-SETUP.py
+
+# JOIN OUR COMMUNITY 
+
+https://chat.whatsapp.com/G2hCkCzylra2OENEfhH8Os
+
+# Subscribe YouTube channel for tutorial videos
+
+https://www.youtube.com/@DHT-HACKERS_10
+
 # Credits:-
 
-Developed by DHT !!
+Developed by DARK HAT TEAM !!
 
 # License :-
 
