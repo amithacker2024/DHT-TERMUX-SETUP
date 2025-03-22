@@ -25,7 +25,7 @@ Termux Auto Setup is a powerful script designed to automate the installation of 
 
 ▫️git clone https://github.com/DHThackers-10/DHT-TERMUX-SETUP.git
 
-▫️pip install requests mechanize tqdm bs4 future
+▫️pip install requests mechanize tqdm bs4 future pyfiglet 
 
 ▫️termux-setup-storage
 
