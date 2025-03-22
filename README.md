@@ -19,17 +19,17 @@ Termux Auto Setup is a powerful script designed to automate the installation of 
 
 # Installation 🔻
 
- apt update && apt upgrade
+* apt update && apt upgrade
 
- pkg install python python3 git wget curl fish figlet neofetch -y
+* pkg install python python3 git wget curl fish figlet neofetch -y
 
- git clone https://github.com/DHThackers-10/DHT-TERMUX-SETUP.git
+* git clone https://github.com/DHThackers-10/DHT-TERMUX-SETUP.git
 
- pip install requests mechanize tqdm bs4 future pyfiglet 
+* pip install requests mechanize tqdm bs4 future pyfiglet 
 
- termux-setup-storage
+* termux-setup-storage
 
- cd DHT-TERMUX-SETUP 
+* cd DHT-TERMUX-SETUP 
 
 # Usage 🔰
 
