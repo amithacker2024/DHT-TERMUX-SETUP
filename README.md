@@ -35,6 +35,10 @@ Termux Auto Setup is a powerful script designed to automate the installation of 
 
 ▫️python3 DHT-TERMUX-SETUP.py
 
+# Screenshot
+
+![Screenshot_20250322-001534](https://github.com/user-attachments/assets/a0f46c29-21da-47f6-809e-7f650f84c6d9)
+
 # JOIN OUR COMMUNITY ☢️
 
 https://chat.whatsapp.com/G2hCkCzylra2OENEfhH8Os
